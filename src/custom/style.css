@@ -1,0 +1,129 @@
+.inputuserauth{
+    width:300px;
+  }
+  .titleuserauth{
+    color:black;
+    font-weight: bold;
+  }
+  div {
+    display: table;    
+    margin: auto
+  }
+  .masterdiv{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 1em;
+    width: 100%;
+    padding: 0;
+    background: #fff;
+
+  }
+  .container{
+    width : 1170px!important;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .zeropadding{
+    padding:0!important;
+  }
+  ul{
+    color: #333;
+    font-size: 13px;
+    line-height: 16px;
+    margin-top: 15px;
+}
+.toptoolbar{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  
+}
+.display{
+  display:inline-block;
+}
+.columns {
+  float: left;
+  min-height: 1px;
+  padding: 0 20px;
+  position: relative;
+  list-style: none;
+  font-size:15px;
+  }
+.floatleft{
+  float:left;
+  
+  
+}
+.floatright{
+  float:right;
+}
+.mainstring{
+    background: #ff6666;
+    padding: 0;
+    min-height: 75px;
+    clear: both;
+    display:block;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    width:1350px;
+    
+  }
+  .title{
+    float: left;
+    min-height: 6px;
+    padding: 0 20px;
+    position: relative;
+    list-style: none;
+    font-size:35px;
+    margin-top: 2rem;
+  }
+  .maincolumns {
+    float: left;
+    min-height: 6px;
+    padding: 0 20px;
+    position: relative;
+    list-style: none;
+    font-size:22px;    
+    margin-top: 2rem;
+    }
+    .link{
+      color: #333;
+      
+    }
+    #footer-global{
+      background: #333;
+      border-top: 3px solid #2e2e2e;
+      color: #ccc;
+      padding: 50px 0 25px;
+      width:1350px;
+  }
+    .columnfooter{
+      width:200px;
+      float:left;
+      
+    }
+    @media (min-width: 768px){}
+    .col-sm-push-1 {
+    left: 8.33333%;
+}
+@media (min-width: 768px){}
+
+.col-sm-10 {
+    width: 83.3333%;
+    
+}
+h4{
+  font-family: Arial, "Helvetica Neue", Helvetica, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: 19px;
+  font-weight: normal;
+  color: rgb(255, 255, 255);
+  text-transform: none;
+  margin-bottom: 20px;
+}
+.footercolumns{
+  margin-bottom: 10px;
+  position: relative;
+  list-style: none;
+}
